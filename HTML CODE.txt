@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Travel Post</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="post-container">
+    <div class="background">
+      <div class="sunset"></div>
+      <div class="palm-trees">
+        <div class="tree"></div>
+        <div class="tree"></div>
+      </div>
+      <div class="hammock"></div>
+      <div class="suitcase"></div>
+    </div>
+    <div class="text-container">
+      <h1 class="headline">Escape to Paradise</h1>
+      <p class="cta">Plan Your Trip Today!</p>
+    </div>
+  </div>
+</body>
+</html>
